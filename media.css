@@ -110,9 +110,9 @@
     justify-content: center;
   }
   .intro-text .btn-shopnow button {
-    width: 230px;
-    height: 56px;
-    font-size: 20px;
+    width: 250px;
+    height: 60px;
+    font-size: 26px;
   }
    .image-carousel {
     width: 80%;
@@ -183,6 +183,11 @@
   .intro-text .btn-shopnow{
     display: flex;
     justify-content: center;
+  }
+  .intro-text .btn-shopnow button {
+    width: 200px;
+    height: 48px;
+    font-size: 19px;
   }
    .image-carousel {
     width: 100%;
